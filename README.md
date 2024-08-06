@@ -1,6 +1,6 @@
 # HMM-based Anomaly Detection Algorithm
 ### Point out the mistakes: An HMM-based Anomaly Detection Algorithm for Sleep Stage Classification
-#### *by: Ziyi Wang, Hang Liu\*, Yukai Cai, Hongjin Li, Chuanshuai Yang, Xinlei Zhang, Fengyu Cong 
+#### by: Ziyi Wang, Hang Liu\*, Yukai Cai, Hongjin Li, Chuanshuai Yang, Xinlei Zhang, Fengyu Cong 
 
 
 ## Requirmenets:
