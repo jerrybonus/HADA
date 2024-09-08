@@ -30,4 +30,4 @@ Hang Liu
 School of Biomedical Engineering, Faculty of Medicine,
 
 Dalian University of Technology, Dalian, China   
-Email: liuahng@dlut.edu.cn
+Email: liuhang@dlut.edu.cn
